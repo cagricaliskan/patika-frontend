@@ -1,0 +1,33 @@
+body{
+    background-color:rgb(38, 206, 183);
+}
+.navbar{
+    height: 50px;
+    width: auto;
+    align-items: center;  
+    display: flex;
+    justify-content: center; 
+    margin: auto; 
+}
+
+.topnav{
+    height: auto;
+    width: auto;
+    align-items: center;  
+    display: flex;
+    justify-content: center;  
+}
+
+.topnav a{
+    margin-left: 10px;
+}
+
+.main {
+    height: 1000px;
+    width: 90%;
+    margin: auto;
+}
+
+.lipad{
+    padding-bottom: 30px;
+}
